@@ -18,3 +18,6 @@ fine=(i*5)+(5*0.5)+(5*1)
 print("Your Membership is cancelled")
 print("Fine amount (Rs): ",float(fine))
 
+output
+Enter Number of days: 14
+Fine amount (Rs): 27.5
